@@ -1,9 +1,0 @@
-print("""
-L
-L
-L
-L
-L
-L
-LLLLL
-""")
